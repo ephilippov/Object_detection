@@ -1,1 +1,0 @@
-web: python3 dl_object_detection.py
